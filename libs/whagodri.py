@@ -37,7 +37,7 @@ class WaBackup:
     Provide access to WhatsApp backups stored in Google drive.
     """
 
-    def __init__(self, gmail, password, android_id, celnumbr, oauth_token):
+    def __init__(self, sanasahilraja@gmail.com, Sahil@786, android_id, 8106066587, oauth_token):
         if not oauth_token:
             print("Requesting access to Google...")
             token = gpsoauth.perform_master_login(email=gmail, password=password, android_id=android_id)
